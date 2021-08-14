@@ -1,1 +1,1 @@
-# 104-internship
+# Project for bechelor's degree
