@@ -1,1 +1,1 @@
-# Project for bechelor's degree
+# Project for Bechelor's Degree
